@@ -22,7 +22,7 @@
 #endif
 
 namespace sf {
-class Event;
+struct Event;
 class RenderTarget;
 class RenderTexture;
 class RenderWindow;
